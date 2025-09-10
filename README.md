@@ -120,4 +120,4 @@ Insurance Risk & Claims Analysis: Power BI | Excel | SQL | DAX | Data Modeling:
 * Built a $187M claims dashboard (37K+ policies) in Power BI, delivering insights on high-risk segments to optimize pricing and fraud detection.
 * Insurance Risk & Claims Analysis (Power BI, Excel, DAX, Data Modeling): Developed an interactive dashboard on 37K+ policies worth $187M, with KPIs for claim frequency, avg claim amount, and risk segmentation. Delivered insights on high-risk segments (private car users, urban drivers, singles with lower education) that supported risk-based pricing and fraud detection.
 
-"C:\Users\shaik ismail\OneDrive\Desktop\D.A Projects Bucket\Guided Projects\Power BI Projects\Insurance Claim Capstone Project\Insurance Power BI Project\Insurance Claim Report.pdf"
+
